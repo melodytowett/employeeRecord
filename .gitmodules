@@ -1,0 +1,3 @@
+[submodule "Modules/admin"]
+	path = Modules/admin
+	url = https://github.com/melodytowett/employeeRecord
